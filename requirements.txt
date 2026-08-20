@@ -1,0 +1,3 @@
+tkinterweb==3.23.0
+Pillow==10.0.0
+pywin32==308; sys_platform == "win32"
